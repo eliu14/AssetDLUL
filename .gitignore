@@ -398,5 +398,8 @@ FodyWeavers.xsd
 *.sln.iml
 
 #Credential Files
-**/nodal-crawler-329222-58978613ac0e.json
-**/venuwebservice-f70ca289fa6e.json
+#**/nodal-crawler-329222-58978613ac0e.json
+#**/venuwebservice-f70ca289fa6e.json
+
+#Powershell image resize
+resize*.ps1
